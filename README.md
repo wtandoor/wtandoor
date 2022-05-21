@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%ff2400&lines=Hello+friend.+Hello+friend?)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @wtandoor, my name is Roman Borisov;
 - 👀 I'm interested in backend developing, AI and algorithmic;
 - 🌱 I’m currently learning C/C++ and Java;
