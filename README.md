@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C/C++ and Java;
 - 📫 How to reach me: You can send me a message in telegram.
 
-Currently i am studying at school21 in Kazan and at ITMO university in Saint-Petesburg. 
+Currently i am studying at school21 and ITMO university in Saint-Petesburg. 
 Now i am working in projects webserv and inception...
 
 
