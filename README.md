@@ -5,7 +5,5 @@
 - 📫 How to reach me: You can send me a message in telegram.
 
 Currently i am studying at school21 and ITMO university in Saint-Petesburg. 
-Now i am working in projects webserv and inception...
-
 
 [![wtandoor's 42 stats](https://badge42.vercel.app/api/v2/cl252izkc000609jslnvrdeo6/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
